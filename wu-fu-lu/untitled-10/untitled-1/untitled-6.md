@@ -72,11 +72,11 @@
 
 沅汐：没能排毒的明天点压按这几个穴位，还有一个是支沟穴。 在手腕处。
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%284%29.png)
 
-![](../../../.gitbook/assets/image%20%289%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%289%29.png)
 
-  
+  
 境萌萌：有，少量应该是排毒了吧？今天晚上静心了一会儿还狂出汗，也有可能是太闷。
 
 沅汐：也算，再按按看。点压三十几下，不用时间太长穴位会疲劳。

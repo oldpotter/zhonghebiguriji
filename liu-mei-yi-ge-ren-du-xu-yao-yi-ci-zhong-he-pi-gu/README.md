@@ -2,8 +2,8 @@
 
 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%2818%29.png)
 
-  
+  
 
 

@@ -36,7 +36,7 @@
 
 沅汐：大家看了这些ppt，就去下定一个决心，要自己去创造了。别依赖我们。谁说我们一定是你们老师。你们自己做好了，将来我来跟你们拜师不更好吗？要有这样的气魄。我知道自己问题很多啊。然后一做老师就容易被你们想象成一个完人。
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%288%29.png)
 
 书因㜣发无渝东暑假诵读经典照片后
 
@@ -94,9 +94,9 @@
 
 书因㜣发下图
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%2810%29.png)
 
-  
+  
 沅汐：这句的关键字在'卑'与'合水'，都是肯平凡。
 
 书因㜣：是啊，这句话太好了。积卑，合水。@境大智 为你点赞。

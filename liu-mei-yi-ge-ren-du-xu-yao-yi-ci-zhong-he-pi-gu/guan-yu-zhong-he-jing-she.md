@@ -1,6 +1,6 @@
 # 关于中和精舍
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%2814%29.png)
 
 中和精舍为**无境书茶**旗下健康产业品牌，旨在运用禅疗禅养的理念和方法为人民带来良好的生活习惯与健康的身体。
 
@@ -24,5 +24,5 @@
 
 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%2818%29.png)
 

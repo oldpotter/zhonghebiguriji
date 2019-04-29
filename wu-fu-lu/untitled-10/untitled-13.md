@@ -20,9 +20,9 @@
 
 沅汐：没关系，允许他扩散出来，但是随顺。
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](https://raw.githubusercontent.com/oldpotter/zhonghebiguriji/master/.gitbook/assets/image%20%283%29.png)
 
-  
+  
 
 
 沅汐：你们今天食欲是淡的吗？
