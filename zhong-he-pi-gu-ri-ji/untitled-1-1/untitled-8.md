@@ -4,53 +4,6 @@ description: 慧心
 
 # 切切实实的去做到才是真的
 
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
-div.Section0{page:Section0;}
-
 今年是第一次和大家一起参加辟谷，选择了28天，从知道每年大家都会一起辟谷之后就很期待。这次辟谷还是非常感谢我的老公，他虽然辟谷前和我辟谷期间也有担心，但是只要我告诉他没关系这是在返病，排解，他也没有再过多干涉我了，每天会出于关心问问我难不难受。对于他的这份信任和理解，我非常感动，也非常感恩。
 
 这次辟谷，身体排解的反应比较大，大概在第二个星期的时候，整个脑袋长了一圈疹子，原来身体里埋了这么多的毒素啊。因为我很少长痘痘，包括青春期的时候，这次脸上，额头上，脑袋后面长了一片，而这些居然平时感觉不到。我们是对自己该有多么麻木啊。
@@ -72,4 +25,6 @@ div.Section0{page:Section0;}
 修行，是让自己更干净，更纯真，发愿，做事。
 
 听了那么多次课，根本的还是要做到啊。
+
+**◎ 沅汐点评：增加体重的并非是脂肪，其实是无数杂念、情绪、和体内垃圾，内心越简单，身体越轻盈，这份轻盈并非指的重量，而是一种体态。很多人辟谷之后体态变得优雅，举止得体、自然。这些都来自于内心环境的改善。**
 

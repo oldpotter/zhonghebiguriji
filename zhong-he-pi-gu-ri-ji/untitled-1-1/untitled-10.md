@@ -14,5 +14,7 @@ description: 福小爱
 
 三、更多感想：辟谷真的是一个特别棒的法门，特别是茶馆所传授的辟谷功法和心法，究竟！希望更多的有缘人能接触并体验辟谷，让自己的身心得到双丰收，人生得到一次飞跃和升级！这是任何外在物质所赶不上的，也是我们生而为人最为值得追求的。再次感恩茶馆和无境书茶！
 
-[·每日记录·](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-fu-xiao-ai)
+[见每日记录](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-fu-xiao-ai)
+
+**◎ 沅汐点评：辟谷时早睡很重要，尽量在9点入眠。我们的肾气很难养，最好的养肾方法就是辟谷并早早入眠，此案例在辟谷期仍能晚睡，表示了肾亏较明显，辟谷时不能做过度过量的事，晚睡就是其一，要注意。**
 

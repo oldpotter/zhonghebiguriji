@@ -14,5 +14,7 @@ description: 诚力行
 
 本次辟谷后很早就进入返病状态，几乎在第一周左腹部就开始有疼痛感，一直到辟谷21天结束及之后复谷喝米汤的一周都有疼痛感；后期出现耳膜鼓起的症状，最后一周体重掉的很快，人已经面黄肌瘦，身上瘦骨嶙峋。
 
-[·每日记录·](https://zhonghebiguriji.gitbook.io/index/untitled-1/untitled-11)
+[见每日记录](https://zhonghebiguriji.gitbook.io/index/wu-fu-lu/untitled-1/untitled-11)
+
+**◎ 沅汐点评：中和功法的练习非常重要，她会加速身体的转换，从而让身体诸多状态可以快速度过，不会拖延过久。**
 

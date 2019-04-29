@@ -12,5 +12,7 @@ description: 慧闪
 
 我真的需要精进，不然太容易被习气带走，没有心力面对和跨越。最后感谢研习社的每一位伙伴，感谢两位老师，感谢在辟谷期间对我特别照顾的同事们。
 
-[·每日记录·](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-hui-shan-1)
+[见每日记录](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-hui-shan-1)
+
+**◎ 沅汐点评：在经历返病时内心一定要信任，信任身体，信任辟谷，由此才不会恐惧。最怕返病时出现恐惧，因为恐惧会打破平静，把整个内心状态转为负面，要及时看到，跳脱。**
 
