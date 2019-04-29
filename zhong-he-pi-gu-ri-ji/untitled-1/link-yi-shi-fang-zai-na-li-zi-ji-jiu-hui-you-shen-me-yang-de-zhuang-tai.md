@@ -22,5 +22,8 @@ description: 境自殊
 
 这次的辟谷自己并不满意，原来以为能轻松做到的事情变得困难，面对考验时，缺少定力。复谷的前一周米汤，偶尔加小块红薯。第二周后几天加了面食和少量青菜。辟谷时吊起对食物的欲望并没过去，还需要在接下来的日子，更加觉知的面对。
 
-[·每日记录·](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-jing-zi-shu)
+[见每日记录](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-jing-zi-shu)
+
+  
+◎**沅汐点评：对于饮食的欲望增强是长期辟谷会必经的阶段，这个阶段如果能够觉知那会是非常大的一个人生跨越。对未来无论是个人心智上还是情绪状态上，都会是截然不同的一个进步和改善，可谓能够改变格局。**
 

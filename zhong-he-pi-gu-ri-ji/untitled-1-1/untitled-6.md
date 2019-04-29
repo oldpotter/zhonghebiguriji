@@ -50,5 +50,7 @@ description: 诚净柔
 
 感谢两位无境书茶搭建这么好一个平台，感谢研习社的家人一起共修，感谢我的家人朋友对我的接纳和支持，感谢我爱人和我婆婆在我辟谷期间，承担了一切家务和接送孩子，让我在工作之余，可以有充足的时间做功法，并且给我准备了充足的枣和红薯，感谢我可爱的女儿，每次家里做什么好吃的饭菜或者买什么好吃的水果时，她都会对我说：“妈妈，你别馋，等你可以吃了，我们再给你做”，“妈妈，你别馋，等你可以吃了，我们再给你买”。感谢我自己有勇气和大家一起辟谷。祝福选择21天和28天的研习社家人一切顺利！期待明年的辟谷。
 
-[·每日记录·](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-cheng-jing-rou)
+[见每日记录](https://zhonghebiguriji.gitbook.io/index/untitled-1/zhong-he-pi-gu-mei-ri-ji-lu-cheng-jing-rou)
+
+**◎ 沅汐点评：越是艰难处，越是修心时。辟谷即修心，难关即菩提。**
 
