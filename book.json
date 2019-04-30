@@ -1,0 +1,16 @@
+{
+	"plugins": ["chapter-fold", "back-to-top-button", "expandable-chapters-small", "-sharing", "sharing-plus", "-lunr", "-search", "search-pro", "pageview-count", "popup"],
+	"language": "zh-hans",
+	"pluginsConfig": {
+		"theme-default": {
+			"showLevel": true
+		},
+		"sharing": {
+			"qq": true,
+			"douban": true,
+			"qzone": true,
+			"weibo":true,
+			"all": ["qq", "douban", "qzone", "weibo", "facebook"]
+		}
+	}
+}
